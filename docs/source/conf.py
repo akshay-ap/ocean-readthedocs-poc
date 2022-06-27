@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'Ocean Protocol documentation'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'myst_parser',
 ]
 
 intersphinx_mapping = {
