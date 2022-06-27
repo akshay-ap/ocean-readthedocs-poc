@@ -14,11 +14,9 @@ lumache==0.0.0
 markdown-it-py==1.1.0
 MarkupSafe==2.1.1
 mdformat==0.7.14
-mdformat-deflist==0.1.1
 mdformat-frontmatter==0.4.1
 mdformat-myst==0.1.5
 mdformat-tables==0.4.1
-mdit-py-plugins==0.3.0
 mdurl==0.1.1
 myst-parser==0.18.0
 packaging==21.3
